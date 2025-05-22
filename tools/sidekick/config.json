@@ -5,7 +5,8 @@
             "id": "idfc-library",
             "title": "Library",
             "environments": ["edit", "dev"],
-            "url": "/tools/sidekick/library.html"
+            "url": "https://main--aem-block-collection--adobe.hlx.live/tools/sidekick/library.html",
+            "includePaths": ["**.docx**"]
         },     
         {
             "id": "idfc-asset-library",
